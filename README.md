@@ -51,5 +51,8 @@ This layout is designed to type all the Vedic Symbols included in the `Devanagar
 ## Modifying/Customising
 Use [Keyman Developer](https://keyman.com/developer/) to customise these layouts.
 
+## Changing Languages
+As these keyboard layouts are not being distributed via a package (`.kmp` file), they are added under the default language, i.e., English, after installation. To change the language of a keyboard layout, use the `Add/remove languages` option in Keyman configuration for that particular layout.
+
 ## License
 These layouts are distributed under the [MIT License](https://opensource.org/license/mit).
